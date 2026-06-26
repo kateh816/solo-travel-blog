@@ -271,7 +271,7 @@ img {
   position: relative;
   width: 100%;
   max-width: 960px;
-  aspect-ratio: 16 / 8;
+  aspect-ratio: 16 / 9;
   margin: 48px auto 0;
   border-radius: var(--radius);
   background:
